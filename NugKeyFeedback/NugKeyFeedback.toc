@@ -1,0 +1,18 @@
+## Interface: 30300
+## Title: NugKeyFeedback
+## SavedVariables: NugKeyFeedbackDB
+## OptionalDeps: Masque, Bartender4, Neuron, ElvUI
+## Author: d87
+
+## X-WoWI-ID: 25488
+## X-Curse-Project-ID: 359317
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\Pools.lua
+
+NugKeyFeedback.lua
+Frame.lua
+Options.lua
